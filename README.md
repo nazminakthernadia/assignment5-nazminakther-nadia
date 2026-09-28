@@ -5,13 +5,13 @@ Basics of programming assignment 5
 
 Fill here:
 
-- Name
-- Group
+- Nazmin akther Nadia
+- Group : C
 
 ## Description of the project
 
-Write the description of the project here.
+this project is about learning basic of programming .It includes creating python and using libraries for the FOCAR project .
 
 ## User instruction
 
-Write the user instructions here.
+open the program and follow the instraction .
